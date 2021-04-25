@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entities
+ majorVersion="9"
+ minorVersion="1"
+ universal="password">
+    <DataTags>
+        <DataTagVocabulary
+         description=""
+         documentationContent="&lt;p&gt;&lt;br&gt;&lt;/p&gt;&#xA;"
+         homeMashup=""
+         isDynamic="true"
+         name="PTC.Simulator.DataTag"
+         projectName="Simulator"
+         tags="">
+            <avatar></avatar>
+            <DesignTimePermissions>
+                <Create></Create>
+                <Read></Read>
+                <Update></Update>
+                <Delete></Delete>
+                <Metadata></Metadata>
+            </DesignTimePermissions>
+            <RunTimePermissions></RunTimePermissions>
+            <VisibilityPermissions>
+                <Visibility></Visibility>
+            </VisibilityPermissions>
+            <ConfigurationTableDefinitions></ConfigurationTableDefinitions>
+            <ConfigurationTables></ConfigurationTables>
+            <VocabularyTerm
+             description=""
+             name="Yaw High"></VocabularyTerm>
+            <VocabularyTerm
+             description=""
+             name="Temperature Low"></VocabularyTerm>
+            <VocabularyTerm
+             description=""
+             name="Temperature High"></VocabularyTerm>
+            <VocabularyTerm
+             description=""
+             name="Roll High"></VocabularyTerm>
+            <VocabularyTerm
+             description=""
+             name="Pitch High"></VocabularyTerm>
+            <VocabularyTerm
+             description=""
+             name="Humidity Low"></VocabularyTerm>
+            <VocabularyTerm
+             description=""
+             name="Humidity High"></VocabularyTerm>
+        </DataTagVocabulary>
+    </DataTags>
+</Entities>
